@@ -47,5 +47,6 @@ class Student
     student.save
   end
 
+  def self.new_
   
 end
